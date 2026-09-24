@@ -39,6 +39,12 @@ Inflation impacts consumer purchasing power, economic policy, and market dynamic
 
 ---
 
+
+## Dashboard Screenshot
+
+<img width="1112" height="904" alt="image" src="https://github.com/user-attachments/assets/10ea687a-b38a-4bc9-a548-dd33fc9f42d8" />
+
+
 ## 📂 Repository Structure
 
 ```text
